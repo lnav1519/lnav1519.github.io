@@ -36,7 +36,7 @@ I think that is very sound advice, but I'm here to have some fun and learn somet
 
 A GANTT chart could be an option.
 
-![GANTT chart](https://github/lnav1519.github.io/assets/images/gantt.png)
+![GANTT chart](https://github.com/lnav1519.github.io/assets/images/gantt.png)
 
 I recently presented on the current workload of the analyst team to my management at my work and I used a GANTT chart. 
 Frankly, I was disappointed with the GANTT chart. 
@@ -47,7 +47,7 @@ I have family, I have work, I have friends, and I have my own personal hobbies t
 If we try to visualize my capacity as parts of a whole, being split up to upkeep those four categories in my life, 
 and then further split up those categories into the tasks that I'm performing... I start to think of a treemap. 
 
-![Treemap](lnav1519.github.io/assets/images/treemap.png)
+![Treemap](https://github.com/lnav1519.github.io/assets/images/treemap.png)
 
 A tree map can show parts of a whole in a tiered fashion. A category can be made up of smaller categories. 
 Or in this case a workload is made up of different categories of tasks and then those tasks can take up a different percentage of time. 
@@ -59,7 +59,7 @@ Then we would need to add the time dimension back into this visualization. Which
 So we need a visualization that shows parts of a whole, and can show how these parts of a whole change across time.
 Taking these requirements into account we can now create a bespoke data visualization, albeit with simpler data than mapping out my day to day life activities. 
 
-![d3 prototype](/lnav1519.github.io/assets/images/d3_prototype.png)
+![d3 prototype](https://github.com//lnav1519.github.io/assets/images/d3_prototype.png)
 
 Here we have a grid of mini grids. The x-axis are different factories, and the y-axis spans from 2025 - 2027.
 The grids represent the total capacity of the factory in rows of 10 mini squares. For example Factory A has a capacity of "94".
