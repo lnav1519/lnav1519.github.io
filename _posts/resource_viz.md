@@ -36,7 +36,7 @@ I think that is very sound advice, but I'm here to have some fun and learn somet
 
 A GANTT chart could be an option.
 
-![GANTT chart](assets/images/gantt.png)
+![GANTT chart](https://github/lnav1519.github.io/assets/images/gantt.png)
 
 I recently presented on the current workload of the analyst team to my management at my work and I used a GANTT chart. 
 Frankly, I was disappointed with the GANTT chart. 
