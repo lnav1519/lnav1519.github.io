@@ -35,8 +35,7 @@ Don't complicate the visualization, focus on the data and the story you are tryi
 I think that is very sound advice, but I'm here to have some fun and learn something new. I've built those boring charts before. 
 
 A GANTT chart could be an option.
-
-![GANTT chart](https://github.com/lnav1519.github.io/assets/images/gantt.png)
+![gantt](https://github.com/user-attachments/assets/39a5422b-d1c1-407a-b75a-b12b78236c1b)
 
 I recently presented on the current workload of the analyst team to my management at my work and I used a GANTT chart. 
 Frankly, I was disappointed with the GANTT chart. 
@@ -47,7 +46,8 @@ I have family, I have work, I have friends, and I have my own personal hobbies t
 If we try to visualize my capacity as parts of a whole, being split up to upkeep those four categories in my life, 
 and then further split up those categories into the tasks that I'm performing... I start to think of a treemap. 
 
-![Treemap](https://github.com/lnav1519.github.io/assets/images/treemap.png)
+![treemap](https://github.com/user-attachments/assets/9cdffee1-c42c-42eb-85b4-d2f11901d4cc)
+
 
 A tree map can show parts of a whole in a tiered fashion. A category can be made up of smaller categories. 
 Or in this case a workload is made up of different categories of tasks and then those tasks can take up a different percentage of time. 
@@ -59,7 +59,7 @@ Then we would need to add the time dimension back into this visualization. Which
 So we need a visualization that shows parts of a whole, and can show how these parts of a whole change across time.
 Taking these requirements into account we can now create a bespoke data visualization, albeit with simpler data than mapping out my day to day life activities. 
 
-![d3 prototype](https://github.com//lnav1519.github.io/assets/images/d3_prototype.png)
+![d3_prototype](https://github.com/user-attachments/assets/226d718c-4edc-497d-b92c-1526f7d342f7)
 
 Here we have a grid of mini grids. The x-axis are different factories, and the y-axis spans from 2025 - 2027.
 The grids represent the total capacity of the factory in rows of 10 mini squares. For example Factory A has a capacity of "94".
@@ -74,6 +74,9 @@ So if I need more shirts made in 2025, I will need to make them at another facto
 Now there are other neat features, and you will have to trust me because my web dev skills are not great so I haven't figured out how to embed the visualization. 
 But its fully interactive!
 If you hover over on the squares it will tell you what category of shirt it is and how much total demand there is for that category of shirt at that factory.
+
+![Screenshot 2025-06-02 at 9 32 49 PM](https://github.com/user-attachments/assets/5497858b-e762-4146-88a7-ac59300a402f)
+
 
 Additionally, if you select an option on the filter in the top right, you can filter for a specific type of shirt!. Lets pretend "Option 1" is a button down shirt.
 We see that our factories don't have a lot of capacity for button downs and only Factory A and D have a lot of open capacity to make more. 
