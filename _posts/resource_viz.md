@@ -35,6 +35,7 @@ Don't complicate the visualization, focus on the data and the story you are tryi
 I think that is very sound advice, but I'm here to have some fun and learn something new. I've built those boring charts before. 
 
 A GANTT chart could be an option.
+
 ![gantt](https://github.com/user-attachments/assets/39a5422b-d1c1-407a-b75a-b12b78236c1b)
 
 I recently presented on the current workload of the analyst team to my management at my work and I used a GANTT chart. 
