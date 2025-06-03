@@ -4,9 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Data Visualization
+  - D3.js
+  - Resource Management
 ---
 
 
@@ -78,10 +78,11 @@ If you hover over on the squares it will tell you what category of shirt it is a
 
 ![Screenshot 2025-06-02 at 9 32 49 PM](https://github.com/user-attachments/assets/5497858b-e762-4146-88a7-ac59300a402f)
 
-
 Additionally, if you select an option on the filter in the top right, you can filter for a specific type of shirt!. Lets pretend "Option 1" is a button down shirt.
 We see that our factories don't have a lot of capacity for button downs and only Factory A and D have a lot of open capacity to make more. 
 If we filter to "Option 3" (let's pretend this option is tank tops), we see that we should start giving Factory D more tank tops to make, because they have a lot of open capacity. 
+
+![Screenshot 2025-06-02 at 10 15 39 PM](https://github.com/user-attachments/assets/0dcea1c0-f4f3-44d2-be2e-b994ac0ca5ad)
 
 This is very much a work in progress, and I'll continue to refine this visualization as my D3 skills grow. I'd also absolutely love to extend this visualization to 
 see how well it would work using people as a resource. I think people as resources can introduce additional layers to load management because a person's experience and personality need to be taken into account. 
