@@ -1,3 +1,15 @@
+---
+title: "Resource Visualization & Learning D3"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
+
 One skill a data professional must have in their tool kit is the ability to visualize data. 
 Most of my experience is in Power BI, with a little bit of Qlik Sense and Tableu thrown in the mix. 
 In my masters program I primarily worked in Python and R for visualizing data and I enjoyed the flexibility that coding your visualization provided.
@@ -24,7 +36,7 @@ I think that is very sound advice, but I'm here to have some fun and learn somet
 
 A GANTT chart could be an option.
 
-![GANTT chart](lnav1519.github.io/assets/images/gantt.png)
+![GANTT chart](assets/images/gantt.png)
 
 I recently presented on the current workload of the analyst team to my management at my work and I used a GANTT chart. 
 Frankly, I was disappointed with the GANTT chart. 
